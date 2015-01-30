@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android</string>
+    <string name="imageGirl">Girls without layout</string>
+    <string name="textOutput">Touch to say hello!</string>
+</resources>
